@@ -8,3 +8,10 @@ is an extension for
 that provides tools for creating and solving
 computational models of biophysical systems and processes
 with a focus on clinical and biomedical applications.
+
+## Tutorial
+
+A tutorial to construct a patient-specific brain biomechanical model
+for craniotomy-induced brain shift and electrode placement-induced brain shift
+can be found
+[here](tutorial/tutorial.md).

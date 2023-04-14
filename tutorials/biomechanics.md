@@ -1,4 +1,4 @@
-# Biomechanical system for calculating brain deformations within 3D Slicer
+# Tutorial: Craniotomy, tumor resection and electrode-placement induced brain shift
 
 ## Patient-specific brain biomechanical model construction
 

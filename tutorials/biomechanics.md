@@ -1,5 +1,7 @@
 # Tutorial: Craniotomy, tumor resection and electrode-placement induced brain shift
 
+*Authors: Saima Safdar*
+
 ## Patient-specific brain biomechanical model construction
 
 This section illustrates the steps to construct a patient-specific brain
